@@ -37,6 +37,8 @@ hrpsysのファイルを
 ```
 と選択し、plot.yaml, layout.yamlを選択を行い,"OK"をクリックする。
 
+(注意) bashrcでlog_plotterをbuildしたworkspaceのsetup.bashをsourceしていないとエラーになる
+
 ## 設定ファイルの記述方法
 
 ### layout.yaml
